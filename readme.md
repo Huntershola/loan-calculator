@@ -30,7 +30,7 @@ This **Loan Calculator** is a web-based application designed to help users calcu
 
 ## Demo
 
-You can view a live demo of the Loan Calculator [here](https://your-loan-calculator.netlify.app).
+You can view a live demo of the Loan Calculator [here](https://loans-calculators.netlify.app/).
 
 ## Code Overview
 
